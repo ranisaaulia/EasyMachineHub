@@ -1,1 +1,1 @@
-# EasyMachineHub
+Easy Machine Hub is a simple Go-based application that provides virtual machine (VM) management services with authentication features and user access rule settings. This application is designed to provide an easy and secure user experience in managing their virtual machines.
